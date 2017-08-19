@@ -1,0 +1,7 @@
+praw.ini
+.ipynb_checkpoints/*
+_pycache_/*
+logfiles/*
+responded_posts/*
+chromedriver.exe
+.git/*
